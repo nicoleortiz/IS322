@@ -11,25 +11,13 @@ header, footer {
 header a {
 	font-family: "Brush Script MT", cursive;  
 	font-style: normal; 
-	font-variant: normal; 
-	font-weight: 700; 
-	line-height: 26.4px;
-	margin-right: 2%;
+	font-variant: normal;
 }
-a {
-	color: #002699;
-	font-size: 40px;
-	text-decoration: none;
-	padding-right: 3%;
-}
-.title {
+.navbar-brand {
 	color: black;
-	font-size: 75px;
-	padding-left: 2%;
+	font-size: 250%;
 }
-.topnav {
-	width: 25%;
-	margin: 0;
-	position: inline;
-	float: right;
+.navbar-brand:hover {
+	color: blue;
+	text-decoration: none;
 }
